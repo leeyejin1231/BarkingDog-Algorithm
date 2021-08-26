@@ -1,1 +1,1 @@
-# algorithm
+#  백준 algorithm
