@@ -29,6 +29,8 @@ n, l = map(int, input().split())
 mapp = []
 res = 0
 
+
+
 for i in range(n):
     mapp.append(list(map(int, input().split())))
 
